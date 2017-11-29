@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_items">
+        <item>ABOUT</item>
+        <item>CENTER</item>
+        <item>ACADEMIC</item>
+        <item>STUDENT PORTAL</item>
+        <item>STAFF PORTAL</item>
+        <item>QUA</item>
+        <item>ALUMNI</item>
+        <item>CONTACT</item>
+    </string-array>
+    <integer-array name="home_items_images">
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+    </integer-array>
+</resources>
